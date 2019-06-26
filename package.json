@@ -1,0 +1,25 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "my_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "bookshelf": "^0.15.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "knex": "^0.17.6",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "pg": "^7.11.0",
+    "pg-promise": "^8.7.2",
+    "sequelize": "^5.8.12",
+    "sequelize-cli": "^5.5.0"
+  }
+}
